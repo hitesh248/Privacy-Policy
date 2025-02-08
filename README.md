@@ -31,6 +31,7 @@ Please note that the Applications utilize third-party services that have their o
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Unity Ads](https://unity.com/legal/privacy-policy)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 
@@ -42,7 +43,9 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 **What are my opt-out rights?**
 
-You can halt all collection of information by the Applications easily by uninstalling them. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network.
+You can halt all collection of information by the Applications easily by uninstalling them. You may use the standard uninstall processes available as part of your mobile device or via the Google Play Store.
+
+Users can opt out of personalized advertising from Unity Ads via their device settings or by following Unity’s opt-out instructions provided in their Privacy Policy.
 
 **Data Retention Policy, Managing Your Information**
 
@@ -62,7 +65,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-09-26.
+This privacy policy is effective as of 2025-02-06.
 
 **Your Consent**
 
