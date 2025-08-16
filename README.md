@@ -13,6 +13,11 @@ The Service Provider may also use the information you provide to contact you fro
 
 In addition, the Applications may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device’s unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Applications.
 
+**In-Game Features and Ads**
+
+The Applications may display ads, including banner, interstitial, and rewarded video ads.
+In some cases, you may be offered in-game rewards (such as extra moves, retries, or bonuses) in exchange for watching a rewarded ad. These rewards are granted only after successful ad completion.
+
 **Do the Applications collect precise real-time location information of the device?**
 
 These Applications do not gather precise information about the location of your mobile device.
